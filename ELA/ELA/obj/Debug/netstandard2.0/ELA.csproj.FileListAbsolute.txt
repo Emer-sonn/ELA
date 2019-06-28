@@ -28,4 +28,4 @@ C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\ELA.Assembly
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\ELA.dll
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\ELA.pdb
-C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\View\Teclado.xaml.g.cs
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\View\Imagem.xaml.g.cs

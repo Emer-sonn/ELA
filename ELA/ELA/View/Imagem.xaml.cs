@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace ELA.View
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class Teclado : ContentPage
+	public partial class Imagem : ContentPage
 	{
-		public Teclado ()
+		public Imagem ()
 		{
 			InitializeComponent ();
 		}

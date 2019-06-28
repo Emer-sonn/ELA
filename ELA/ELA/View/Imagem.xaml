@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ELA.View.Imagem">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Image Source="sono.jgp" Grid.Column="0" Grid.Row="0"/>
+               
+                <Image Source="tontuta.jgp" Grid.Column="1" Grid.Row="0"/>
+                <Image Source="taquicardia.jgp" Grid.Column="2" Grid.Row="0"/>
+                <Image Source="coriza.jgp" Grid.Column="0" Grid.Row="1"/>
+                <Image Source="dordecabeca.jgp" Grid.Column="1" Grid.Row="1"/>
+                <Image Source="dordedente.jgp" Grid.Column="2" Grid.Row="1"/>
+                <Image Source="dordegarganta.jgp" Grid.Column="0" Grid.Row="2"/>
+                <Image Source="febre.jgp" Grid.Column="1" Grid.Row="2"/>
+                <Image Source="faltadear.jpg" Grid.Column="2" Grid.Row="2"/> 
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

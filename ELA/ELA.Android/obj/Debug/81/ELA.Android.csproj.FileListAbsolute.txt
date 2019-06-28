@@ -598,6 +598,15 @@ C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\linksrc\System.X
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\taquicardia.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\coriza.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\dordecabeca.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\dordedente.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\dordegarganta.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\febre.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\faltadear.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\sono.jpg
+C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\res\drawable\tontuta.jpg
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA\bin\Debug\netstandard2.0\ELA.dll
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\bin\Debug\ELA.dll.mdb
 C:\Users\cgrlab307\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\linksrc\ELA.dll.mdb

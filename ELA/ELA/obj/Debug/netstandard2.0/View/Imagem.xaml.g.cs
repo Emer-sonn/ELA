@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ELA.View.Teclado.xaml", "View/Teclado.xaml", typeof(global::ELA.View.Teclado))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ELA.View.Imagem.xaml", "View/Imagem.xaml", typeof(global::ELA.View.Imagem))]
 
 namespace ELA.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\Teclado.xaml")]
-    public partial class Teclado : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\Imagem.xaml")]
+    public partial class Imagem : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Teclado));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Imagem));
         }
     }
 }

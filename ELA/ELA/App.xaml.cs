@@ -30,6 +30,7 @@ namespace ELA
             x.Children.Add(new FalaLista());
             x.Children.Add(new Fala());
             x.Children.Add(new CorpoF());
+            x.Children.Add(new Imagem());
             MainPage = x;
         }
 

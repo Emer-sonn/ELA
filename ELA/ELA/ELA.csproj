@@ -25,7 +25,7 @@
     <EmbeddedResource Update="View\FalaLista.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="View\Teclado.xaml">
+    <EmbeddedResource Update="View\Imagem.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
