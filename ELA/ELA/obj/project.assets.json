@@ -96,7 +96,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -608,27 +608,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Emersonn\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\cgrlab307\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj",
+      "projectUniqueName": "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj",
       "projectName": "ELA",
-      "projectPath": "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj",
-      "packagesPath": "C:\\Users\\Emersonn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA\\obj\\",
+      "projectPath": "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj",
+      "packagesPath": "C:\\Users\\cgrlab307\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Emersonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\cgrlab307\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

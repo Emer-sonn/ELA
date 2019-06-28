@@ -1291,26 +1291,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Emersonn\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\cgrlab307\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA.Android\\ELA.Android.csproj",
+      "projectUniqueName": "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA.Android\\ELA.Android.csproj",
       "projectName": "ELA.Android",
-      "projectPath": "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA.Android\\ELA.Android.csproj",
-      "packagesPath": "C:\\Users\\Emersonn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA.Android\\obj\\",
+      "projectPath": "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA.Android\\ELA.Android.csproj",
+      "packagesPath": "C:\\Users\\cgrlab307\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Emersonn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\cgrlab307\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
@@ -1322,8 +1317,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj": {
-              "projectPath": "C:\\Users\\Emersonn\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj"
+            "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj": {
+              "projectPath": "C:\\Users\\cgrlab307\\Desktop\\ELA\\ELA\\ELA\\ELA\\ELA.csproj"
             }
           }
         }

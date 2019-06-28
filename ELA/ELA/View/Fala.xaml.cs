@@ -16,7 +16,7 @@ namespace ELA.View
 		public Fala ()
 		{
 			InitializeComponent ();
-		}
+        }
 
         private async void Falar_Clicked(object sender, EventArgs e)
         {
@@ -24,5 +24,19 @@ namespace ELA.View
             await CrossTextToSpeech.Current.Speak(x);
 
         }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            MessagingCenter.Send(this, "AllowLandscape");
+            texto.Focus();
+        }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            MessagingCenter.Send(this, "PreventLandscape"); //during page close setting back to portrait 
+        }
+
     }
 }
