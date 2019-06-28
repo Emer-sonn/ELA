@@ -4,9 +4,8 @@
              x:Class="ELA.View.Fala">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="texto" />
+            <Button Text="Falar" Clicked="Falar_Clicked" x:Name="Falar"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

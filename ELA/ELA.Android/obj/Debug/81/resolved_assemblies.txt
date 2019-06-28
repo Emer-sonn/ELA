@@ -23,6 +23,7 @@ C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xa
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Compat.dll
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.UI.dll
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.CustomTabs.dll
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Fragment.dll
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA.Android\obj\Debug\81\android\assets\Xamarin.Android.Support.Media.Compat.dll

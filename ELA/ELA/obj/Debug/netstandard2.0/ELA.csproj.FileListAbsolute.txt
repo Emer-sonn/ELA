@@ -12,3 +12,4 @@ C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA\bin\Debug\netstandard2.0\ELA.pdb
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\ELA.dll
 C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\ELA.pdb
+C:\Users\Emersonn\Desktop\ELA\ELA\ELA\ELA\obj\Debug\netstandard2.0\View\CorpoF.xaml.g.cs

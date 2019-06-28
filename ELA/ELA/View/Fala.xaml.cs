@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Plugin.TextToSpeech;
 
 namespace ELA.View
 {
@@ -16,5 +17,12 @@ namespace ELA.View
 		{
 			InitializeComponent ();
 		}
-	}
+
+        private async void Falar_Clicked(object sender, EventArgs e)
+        {
+            var x = texto.Text;
+            await CrossTextToSpeech.Current.Speak(x);
+
+        }
+    }
 }

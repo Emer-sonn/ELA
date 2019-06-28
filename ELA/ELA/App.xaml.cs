@@ -29,6 +29,7 @@ namespace ELA
             CarouselPage x = new CarouselPage();
             x.Children.Add(new FalaLista());
             x.Children.Add(new Fala());
+            x.Children.Add(new CorpoF());
             MainPage = x;
         }
 
